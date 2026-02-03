@@ -1,4 +1,4 @@
-# Developing Frappe Apps - Opencode Skill
+# Frappe Development Agent Skill
 
 A comprehensive skill for developing custom Frappe/ERPNext applications with Controller-Service-Repository (CSR) architecture, best practices, and testing patterns.
 
@@ -46,14 +46,6 @@ This skill is designed for **Frappe Framework v15 and v16** and **ERPNext v15 an
 ## Contributing
 
 Contributions are welcome! Here's how you can help improve this skill:
-
-### Reporting Issues
-
-If you find errors, outdated information, or have suggestions:
-
-1. Open an issue on GitHub
-2. Describe the problem or suggestion clearly
-3. Include relevant context (Frappe/ERPNext version, use case)
 
 ### Submitting Changes
 
