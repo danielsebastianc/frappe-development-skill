@@ -1,6 +1,6 @@
 # Frappe Development Agent Skill
 
-A comprehensive skill for developing custom Frappe/ERPNext applications with Controller-Service-Repository (CSR) architecture, best practices, and testing patterns.
+Personal comprehensive skill for developing custom Frappe/ERPNext applications with Controller-Service-Repository (CSR) architecture, best practices, and testing patterns.
 
 ## Description
 
