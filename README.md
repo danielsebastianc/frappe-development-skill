@@ -4,7 +4,7 @@ A comprehensive skill for developing custom Frappe/ERPNext applications with Con
 
 ## Description
 
-This skill provides guidance for building robust Frappe applications using clean architecture principles. It covers everything from DocType controllers and database queries to error handling and comprehensive testing strategies.
+This skill is designed for **AI agents and coding assistants** (like Opencode) to provide expert guidance when developing Frappe/ERPNext applications. It offers comprehensive knowledge for building robust Frappe applications using clean architecture principles, covering DocType controllers, database queries, error handling, and testing strategies.
 
 ## Topics Covered
 
@@ -17,7 +17,7 @@ This skill provides guidance for building robust Frappe applications using clean
 
 ## When to Use
 
-Load this skill when:
+AI agents should load this skill when working on:
 - Building custom DocType controllers
 - Implementing business logic with CSR architecture
 - Creating API endpoints with `@frappe.whitelist()`
