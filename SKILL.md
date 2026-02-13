@@ -33,12 +33,12 @@ Reference guide for building custom Frappe applications with clean architecture 
 
 | File | Purpose | When to Load |
 |------|---------|--------------|
-| [architecture-patterns.md](architecture-patterns.md) | CSR architecture, API controllers, services, repositories, overrides | Implementing business logic |
-| [doctype-controllers.md](doctype-controllers.md) | DocType lifecycle, validation, flags, child tables | Building DocType controllers |
-| [database-queries.md](database-queries.md) | Query patterns: get_doc, get_list, frappe.qb, filters | Database operations |
-| [error-handling.md](error-handling.md) | Error handling: frappe.throw(), exceptions, logging | Validation and errors |
-| [testing-patterns.md](testing-patterns.md) | Testing basics with pytest and MagicMock | Writing tests |
-| [testing-advanced.md](testing-advanced.md) | Advanced testing scenarios | Complex tests |
+| [architecture-patterns.md](patterns/architecture-patterns.md) | CSR architecture, API controllers, services, repositories, overrides | Implementing business logic |
+| [doctype-controllers.md](patterns/doctype-controllers.md) | DocType lifecycle, validation, flags, child tables | Building DocType controllers |
+| [database-queries.md](patterns/database-queries.md) | Query patterns: get_doc, get_list, frappe.qb, filters | Database operations |
+| [error-handling.md](patterns/error-handling.md) | Error handling: frappe.throw(), exceptions, logging | Validation and errors |
+| [testing-patterns.md](patterns/testing-patterns.md) | Testing basics with pytest and MagicMock | Writing tests |
+| [testing-advanced.md](patterns/testing-advanced.md) | Advanced testing scenarios | Complex tests |
 
 ## Workflows
 
@@ -103,7 +103,7 @@ return {
 ```
 
 **Step 5: Tests**
-See [testing-patterns.md](testing-patterns.md).
+See [testing-patterns.md](patterns/testing-patterns.md).
 
 ### Creating New DocType Workflow
 
