@@ -31,14 +31,12 @@ AI agents should load this skill when working on:
 ```
 frappe-development-skill/
 ├── SKILL.md                    # Main skill metadata and workflows
-├── README.md                   # This documentation file
-└── patterns/                   # Skill pattern guides
-    ├── architecture-patterns.md      # CSR architecture guide
-    ├── doctype-controllers.md      # DocType controller patterns
-    ├── database-queries.md         # Database query patterns
-    ├── error-handling.md           # Error handling strategies
-    ├── testing-patterns.md         # Basic testing guide
-    └── testing-advanced.md         # Advanced testing scenarios
+├── architecture-patterns.md      # CSR architecture guide
+├── doctype-controllers.md      # DocType controller patterns
+├── database-queries.md         # Database query patterns
+├── error-handling.md           # Error handling strategies
+├── testing-patterns.md         # Basic testing guide
+└── testing-advanced.md         # Advanced testing scenarios
 ```
 
 ## Compatibility

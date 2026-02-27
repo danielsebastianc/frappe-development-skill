@@ -35,6 +35,7 @@ Reference guide for building custom Frappe applications with clean architecture 
 |------|---------|--------------|
 | [architecture-patterns.md](patterns/architecture-patterns.md) | CSR architecture, API controllers, services, repositories, overrides | Implementing business logic |
 | [doctype-controllers.md](patterns/doctype-controllers.md) | DocType lifecycle, validation, flags, child tables | Building DocType controllers |
+| [client-side-form-customization.md](patterns/client-side-form-customization.md) | Child table field properties, client-side grid updates | Client-side form behavior |
 | [database-queries.md](patterns/database-queries.md) | Query patterns: get_doc, get_list, frappe.qb, filters | Database operations |
 | [error-handling.md](patterns/error-handling.md) | Error handling: frappe.throw(), exceptions, logging | Validation and errors |
 | [testing-patterns.md](patterns/testing-patterns.md) | Testing basics with pytest and MagicMock | Writing tests |
